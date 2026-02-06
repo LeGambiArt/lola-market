@@ -13,8 +13,6 @@ It's simple:
 3. **Document it** in `docs/catalog.md`
 4. **Send us a pull request**
 
-That's it!
-
 ## What to Add
 
 ### In lola.yml
