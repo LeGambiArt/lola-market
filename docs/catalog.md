@@ -7,9 +7,9 @@
 
 ## Available Modules
 
-| Name | Description | Version | Tags |
-|------|-------------|---------|------|
-| [lola-manager](https://github.com/mrbrandao/lola-manager) | Build Lola modules with workflow guidance | 0.1.0 | module-builder, workflow, scaffolding |
+| Name | Description |
+|------|-------------|
+| [lola-manager](https://github.com/mrbrandao/lola-manager) | Build Lola modules with workflow guidance |
 
 ## Installation
 
