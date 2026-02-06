@@ -1,0 +1,37 @@
+name: "LeGambiArt Lola Marketplace"
+description: >-
+  Daily driver tools for creative professionals and
+  AI-assisted development
+version: "1.0.0"
+
+modules:
+  - name: "lola-manager"
+    description: "Build Lola modules with workflow guidance"
+    version: "0.1.0"
+    repository: "https://github.com/mrbrandao/lola-manager"
+    tags:
+      - "module-builder"
+      - "workflow"
+      - "scaffolding"
+      - "all"
+
+  # Example module templates (copy and modify for new modules):
+  #
+  # Simple module (content at repository root):
+  # - name: "example-module"
+  #   description: "Brief description of the module"
+  #   version: "1.0.0"
+  #   repository: "https://github.com/username/repo"
+  #   tags:
+  #     - "category"
+  #     - "all"
+  #
+  # Module with custom content path:
+  # - name: "another-module"
+  #   description: "Module with content in subdirectory"
+  #   version: "1.0.0"
+  #   repository: "https://github.com/username/repo"
+  #   path: "module"
+  #   tags:
+  #     - "category"
+  #     - "all"
