@@ -16,6 +16,30 @@ modules:
       - "scaffolding"
       - "all"
 
+  - name: "git-commit-for-ai-agents"
+    description:
+    "A specific context/skill to guardrail the process of
+    committing changes to a git repository executed by AI agents."
+    version: "v1.0.0"
+    repository: "https://github.com/rjeffman/git-commit-for-ai-agents.git"
+    tags:
+      - "git"
+      - "development"
+      - "all"
+
+  - name: "brasil-time-track"
+    description: "A skill to help manage Brasil time tracker Kairos."
+    version: "main"
+    repository: "https://github.com/LeGambiArt/brasil-time-track.git"
+    tags:
+      - "time"
+      - "clock"
+      - "tracker"
+      - "kairos"
+      - "Brazil"
+      - "punchclock"
+      - "all"
+
   # Example module templates (copy and modify for new modules):
   #
   # Simple module (content at repository root):
