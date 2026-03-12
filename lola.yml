@@ -17,9 +17,9 @@ modules:
       - "all"
 
   - name: "git-commit-for-ai-agents"
-    description:
-    "A specific context/skill to guardrail the process of
-    committing changes to a git repository executed by AI agents."
+    description: >-
+      A specific context/skill to guardrail the process of
+      committing changes to a git repository executed by AI agents.
     version: "v1.1.0"
     repository: "https://github.com/rjeffman/git-commit-for-ai-agents.git"
     tags:
