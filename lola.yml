@@ -3,7 +3,7 @@ name: "LeGambiArt Lola Marketplace"
 description: >-
   Daily driver tools for creative professionals and
   AI-assisted development
-version: "1.0.0"
+version: "1.0.1"
 
 modules:
   - name: "lola-manager"
@@ -20,7 +20,7 @@ modules:
     description:
     "A specific context/skill to guardrail the process of
     committing changes to a git repository executed by AI agents."
-    version: "v1.0.0"
+    version: "v1.1.0"
     repository: "https://github.com/rjeffman/git-commit-for-ai-agents.git"
     tags:
       - "git"
