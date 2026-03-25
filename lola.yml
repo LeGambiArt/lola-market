@@ -4,7 +4,6 @@ description: >-
   Daily driver tools for creative professionals and
   AI-assisted development
 version: "1.0.1"
-
 modules:
   - name: "lola-manager"
     description: "Build Lola modules with workflow guidance"
@@ -38,6 +37,23 @@ modules:
       - "kairos"
       - "Brazil"
       - "punchclock"
+      - "all"
+
+  - name: "gitlab-release"
+    description: >
+      Generates formatted release notes for GitLab project tags,
+      mimicking GitHub's release notes style. Supports Slack and Markdown
+      output formats
+    version: "v0.1.0"
+    repository: "https://github.com/mrbrandao/gitlab-release.git"
+    tags:
+      - "gitlab"
+      - "release"
+      - "notes"
+      - "glab"
+      - "git"
+      - "formatted"
+      - "messages"
       - "all"
 
   # Example module templates (copy and modify for new modules):
