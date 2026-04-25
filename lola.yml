@@ -56,6 +56,19 @@ modules:
       - "messages"
       - "all"
 
+  - name: "upstream-release-python"
+    description: "Python project releases with Github and PyPy"
+    version: "1.0.0"
+    repository: "https://github.com/rjeffman/upstream-sldc"
+    path: "upsteram-release-python"
+    tags:
+      - "SLDC"
+      - "Python"
+      - "Github"
+      - "PyPi"
+      - "release"
+      - "upstream"
+
   # Example module templates (copy and modify for new modules):
   #
   # Simple module (content at repository root):
