@@ -39,21 +39,21 @@ modules:
       - "punchclock"
       - "all"
 
-  - name: "gitlab-release"
-    description: >
-      Generates formatted release notes for GitLab project tags,
-      mimicking GitHub's release notes style. Supports Slack and Markdown
-      output formats
-    version: "v0.1.0"
-    repository: "https://github.com/mrbrandao/gitlab-release.git"
+  - name: "git-release"
+    description: >-
+      Skills for creating releases on GitHub and GitLab.
+      Includes github-release (signed tags + GitHub
+      releases with auto-generated notes) and
+      gitlab-release (formatted release notes in Slack
+      or Markdown).
+    version: "v0.2.0"
+    repository: "https://github.com/mrbrandao/git-release.git"
     tags:
+      - "git"
+      - "github"
       - "gitlab"
       - "release"
-      - "notes"
-      - "glab"
-      - "git"
-      - "formatted"
-      - "messages"
+      - "semver"
       - "all"
 
   # Example module templates (copy and modify for new modules):
