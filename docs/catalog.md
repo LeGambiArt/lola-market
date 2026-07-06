@@ -13,6 +13,7 @@
 | [git-commit-for-ai-agents](https://github.com/rjeffman/git-commit-for-ai-agents) | A specific context/skill to guardrail the process of committing changes to a git repository executed by AI agents |
 | [brasil-time-track](https://github.com/LeGambiArt/brasil-time-track) | A skill to help manage Brasil time tracker Kairos |
 | [gitlab-release](https://github.com/mrbrandao/gitlab-release) | Generates formatted release notes for GitLab project tags, mimicking GitHub's release notes style. Supports Slack and Markdown output formats |
+| [skill-commit](https://github.com/lolables/skill-commit) | Conventional commit skill with tpope 50/72 rule enforcement |
 
 ## Installation
 
